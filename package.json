@@ -1,0 +1,9 @@
+{
+  "name": "phone-api",
+  "version": "1.0.0",
+  "description": "Phone number management API",
+  "type": "module",
+  "dependencies": {
+    "@vercel/kv": "^1.0.1"
+  }
+}
